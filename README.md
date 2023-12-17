@@ -14,7 +14,7 @@ Options:
   -V, --version     Print version
 ```
 
-Example: Run timer for 10 seconds and wait for 5 seconds before restarting. Repeat 10 times.
+Example: Run timer for 10 seconds and wait for 5 seconds before restarting. Repeat 5 times.
 ```
 timer -s 10 -r 5 -n 5
 ```
