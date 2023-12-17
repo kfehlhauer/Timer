@@ -1,4 +1,4 @@
-#timer
+# timer
 
 A simple CLI timer that resets and repeats.
 
